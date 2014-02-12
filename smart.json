@@ -1,0 +1,8 @@
+{
+  "name": "jquery-html5-placeholder-shim",
+  "description": "HTML5 placeholder shim, a jQuery plugin for browsers that don't support placeholders.",
+  "homepage": "https://github.com/damienwhaley/meteor-jquery-html5-placeholder-shim",
+  "author": "Damien Whaley",
+  "version": "0.1.0",
+  "git": "https://github.com/damienwhaley/meteor-jquery-html5-placeholder-shim.git"
+}
