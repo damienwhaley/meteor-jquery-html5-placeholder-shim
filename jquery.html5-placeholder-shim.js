@@ -103,5 +103,3 @@ jQuery(document).add(window).bind('ready load', function() {
     jQuery.placeholder.shim();
   }
 });
-
-103.245.222.133
